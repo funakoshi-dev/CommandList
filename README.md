@@ -1,4 +1,4 @@
-# git / github
+## git / github
 ### tag
 - Add tag (local)
   - `git tag tagname`
@@ -9,6 +9,7 @@
 - Remove tag (Remote)
   - `git push —delete origin tagname`
 
+## General
 ### File access
 - Change permission
   - ex) `sudo chmod 754 PATHtofile`
