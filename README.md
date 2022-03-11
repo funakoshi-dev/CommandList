@@ -8,6 +8,9 @@
   - `git tag —delete tagname`
 - Remove tag (Remote)
   - `git push —delete origin tagname`
+### Clean
+- Clean all files and check out again
+  - `git checkout . && git clean -f -x .`
 
 ## General
 ### File access
