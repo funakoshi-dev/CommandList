@@ -30,3 +30,6 @@
   - ex) `adb logcat -s Unity`
 - Install apk
   - `adb install PATHtoapk`
+
+### Change prompt(zshrc) look
+- `PROMPT="%K{cyan} %n %D %* %~ %# %k "`
